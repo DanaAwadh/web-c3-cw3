@@ -1,0 +1,14 @@
+.text-color{
+    color: rgb(199, 231, 231);
+    background-color: blue;
+}
+#color{
+    color: blueviolet;
+}
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+h1{
+    font-family: 'Amiri', serif;
+}
+p{
+    font-weight: 400;
+}
